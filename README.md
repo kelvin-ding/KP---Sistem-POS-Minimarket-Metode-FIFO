@@ -1,5 +1,5 @@
 # KP - Sistem POS Metode FIFO
-Aplikasi Kasir Sedherhana
+Aplikasi Kasir Sedherhana dengan PHP Native
 
 ### Prequisite
 
